@@ -24,5 +24,12 @@
             "program": "lib/AdvancedText.dart",
            
         },
+        {
+         "name": "TextWidgetBasic",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/image.dart",
+           
+        },
     ]
 }
